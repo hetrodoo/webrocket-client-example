@@ -1,4 +1,4 @@
-# front
+# webrocket-client-example
 
 ## Project setup
 ```
